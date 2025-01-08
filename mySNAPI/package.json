@@ -10,7 +10,7 @@
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/hseymo/Social-Network-API.git"
+      "url": "https://github.com/mccirillo93/mySNAPI"
     },
     "keywords": [
       "NoSQL",
@@ -20,12 +20,10 @@
       "Express",
       "Node"
     ],
-    "author": "Haley Seymour",
+    "author": "Michael Cirillo",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/hseymo/Social-Network-API/issues"
     },
-    "homepage": "https://github.com/hseymo/Social-Network-API#readme",
+    "homepage": "https://github.com/mccirillo93/mySNAPI",
     "dependencies": {
       "express": "^4.18.1",
       "moment": "^2.29.3",
